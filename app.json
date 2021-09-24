@@ -1,14 +1,14 @@
 {
-    "name": "Amazon",
+    "name": "ales-1",
     "description": "Amazone Alexa Is Powerfull whatsapp bot For Whatsapp",
     "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
     "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "asena", "bug", "free rdp" ],
-    "repository": "https://www.github.com/jesonpro/ales",
+    "repository": "https://github.com/xmain12/ales-1",
     "website":   "wa",
-    "success_url": "https://www.github.com/jesonpro",
+    "success_url": "https://github.com/xmain12",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "STEFANIE_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
