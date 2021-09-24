@@ -1,14 +1,14 @@
 {
-  "name": "ales",
+  "name": "ales-1",
   "version": "7.3.6",
   "description": ".",
-  "main": "./ales/bot.js",
+  "main": "./ales-1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesonpro/ales.git"
+    "url": "git+https://github.com/xmain12/ales-1.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "@terror-boy / @HatzuHole",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/jesonpro/ales/issues"
+    "url": "https://github.com/xmain12/ales-1/issues"
   },
-  "homepage": "https://github.com/jesonpro/ales#readme",
+  "homepage": "https://github.com/xmain12/ales-1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
